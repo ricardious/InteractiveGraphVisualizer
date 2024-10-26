@@ -16,7 +16,7 @@ python --version
 
    ```bash
    git clone https://github.com/ricardious/InteractiveGraphVisualizer.git
-   cd your-repo-directory
+   cd InteractiveGraphVisualizer
    ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
