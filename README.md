@@ -15,7 +15,7 @@ python --version
 1. **Clone the repository** (if applicable):
 
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/ricardious/InteractiveGraphVisualizer.git
    cd your-repo-directory
    ```
 
